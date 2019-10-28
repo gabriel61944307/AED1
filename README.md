@@ -1,5 +1,5 @@
 # AED_1
-Este repositório contém o códigos referentes a disciplina de algoritmos e estruturas de dados 1, ministrada pela Drª Marcela Xavier Ribeiro na UFSCar no periodo letivo 2019/1.
+Este repositório contém o códigos referentes a disciplina de Algoritmos e Estruturas de Dados 1, ministrada pela Drª Marcela Xavier Ribeiro na UFSCar no periodo letivo 2019/1.
 
 <h3><b>Trabalho 1:</b></h3>
 <p><h4>Este código contém 4 funções principais:</h4></p>
