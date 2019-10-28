@@ -9,6 +9,7 @@ Este código contém 4 funções principais
 4) Retorna o piso de log base 2 de n
 
 Trabalho 2:
+
 Retorna o número minimo de trocas adjacentes a modo que uma cadeia de inteiros fique ordenada (basicamente um bubble sort que não faz comparações inúteis).
 
 Exemplo de input: 5(tamanho da cadeia) 1 3 2 5 4(cadeia)
