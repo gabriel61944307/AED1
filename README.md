@@ -12,10 +12,10 @@ Este repositório contém o códigos referentes a matéria de algoritmos e estru
 
 Retorna o número minimo de trocas adjacentes a modo que uma cadeia de inteiros fique ordenada (basicamente um bubble sort que não faz comparações inúteis).
 
-Exemplo de input: 5(tamanho da cadeia) 1 3 2 5 4(cadeia)
-
+Exemplo de input: <table border="1"><tr><td>tamanho da cadeia</td><td>cadeia</td></tr><tr><td>5</td><td>1 3 2 5 4</td></tr>
+  
 <h3><b>Trabalho 3:</b></h3>
 
 Resolve o problema de Josephus para qualquer tamanho de passo.
-Exemplo de entrada: <tr><td>número de execuções</td><td>individuos no circulo</td><td>tamanho do passo</td></tr>
+Exemplo de entrada: <table border="1"><tr><td>número de execuções</td><td>individuos no circulo</td><td>tamanho do passo</td></tr>
 <tr><td>1</td><td>10</td><td>2</td></tr>
