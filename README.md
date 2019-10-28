@@ -17,5 +17,9 @@ Exemplo de input:  <table border="1"><tr><td>tamanho da cadeia</td><td>cadeia</t
 <p><h3><b>Trabalho 3:</b></h3></p>
 
 Resolve o problema de Josephus para qualquer tamanho de passo.
+
 Exemplo de input:  <table border="1"><tr><td>número de execuções</td><td>individuos no circulo</td><td>tamanho do passo</td></tr>
 <tr><td>1</td><td>10</td><td>2</td></tr></table>
+
+<h3><b>Trabalho 4:</b></h3>
+Dada uma entrada n, este programa retorna de quantas maneiras é possivel posicionar n rainhas em um tabuleiro nxn de modo que uma rainha não possa matar a outra (problema das n rainhas).
