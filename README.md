@@ -2,11 +2,11 @@
 Este repositório contém o códigos referentes a matéria de algoritmos e estruturas de dados 1, disciplina ministrada pela Drª Marcela Xavier Ribeiro na UFSCar no periodo letivo 2019/1.
 
 <h3><b>Trabalho 1:</b></h3>
-Este código contém 4 funções principais
-1) Verifica se uma string é palindroma
-2) Imprimi uma string ao contrario
-3) Resolve fibonacci
-4) Retorna o piso de log base 2 de n
+<p>Este código contém 4 funções principais</p>
+<p>1) Verifica se uma string é palindroma</p>
+<p>2) Imprimi uma string ao contrario</p>
+<p>3) Resolve fibonacci</p>
+<p>4) Retorna o piso de log base 2 de n</p>
 
 <h3><b>Trabalho 2:</b></h3>
 
