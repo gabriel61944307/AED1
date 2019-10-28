@@ -17,5 +17,5 @@ Exemplo de input: 5(tamanho da cadeia) 1 3 2 5 4(cadeia)
 <h3><b>Trabalho 3:</b></h3>
 
 Resolve o problema de Josephus para qualquer tamanho de passo.
-Exemplo de entrada: <h4><b>número de execuções</b></h4>   <h4><b>individuos no circulo</b></h4>   <h4><b>tamanho do passo</b></h4>
-                            1                      10                   2
+Exemplo de entrada: <tr><td>número de execuções</td><td>individuos no circulo</td><td>tamanho do passo</td></tr>
+<tr><td>1</td><td>10</td><td>2</td></tr>
